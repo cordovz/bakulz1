@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "npm install && node index.js"
   }
 }
